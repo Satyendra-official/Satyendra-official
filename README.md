@@ -42,16 +42,27 @@ I'm a passionate **Full Stack Web Developer** who loves building responsive and 
 
 ## 📈 GitHub Stats
 
-![Satyendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyendra-official&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyendra-official&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyendra-official&show_icons=true&theme=github_dark" alt="Satyendra's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=github-dark&hide_border=false" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Completed full-stack projects using MERN
+- 🌐 Built and deployed a personal portfolio using Vite + Tailwind
+- 🧠 Learned and implemented API integrations & state management
+- 📈 Continuously learning and contributing to open-source projects
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/satyendra-kr-yadav/) <!-- Add your actual profile link -->
-- Email: satyendray2306@gmail.com <!-- Replace with your email if you’re okay sharing -->
-<!-- - [Portfolio](https://your-portfolio.com) --> <!-- Replace with your portfolio if you have one -->
+- 📧 Email: [satyendray2306@gmail.com](mailto:satyendray2306@gmail.com)
+- 🐱 GitHub: [github.com/Satyendra-official](https://github.com/Satyendra-official)
+- 💼 LinkedIn: [linkedin.com/in/satyendra-kr-yadav](https://www.linkedin.com/in/satyendra-kr-yadav/)
 
 ---
 
