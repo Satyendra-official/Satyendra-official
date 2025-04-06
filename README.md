@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Satyendra!
+<img src="ChatGPT Image Apr 7, 2025, 01_30_50 AM.png" alt="Satyendra's GitHub Banner" style="width:100%; border-radius: 12px;" />
+
+<!-- # 👋 Hi, I'm Satyendra! -->
 
 I'm a passionate **Full Stack Web Developer** who loves building responsive and dynamic web applications. I enjoy solving real-world problems through code and continuously learning new technologies.
 
