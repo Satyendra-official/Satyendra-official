@@ -24,15 +24,21 @@ I'm a passionate **Full Stack Web Developer** who loves building responsive and 
 
 ## 🛠️ Projects
 
-### 🌦️ Weather App
-- Implemented API integration to fetch real-time weather data.
-- Gained hands-on experience with asynchronous JavaScript and error handling.
+### 🌐 [LifeOps](https://github.com/Satyendra-official/LifeOps)
+- A productivity and lifestyle management app.
+- Focused on task tracking, notes, and reminders.
+- Built with **MERN stack**, emphasizing clean UI and modular code.
 
-### ✅ Todo App
-- Built using **React**.
-- Learned state management and the use of **React Hooks**.
-- Clean and responsive UI using **Tailwind CSS**.
+### 💸 [Finance Tracker Backend](https://github.com/Satyendra-official/finance-tracker-backend)
+- RESTful API for a personal finance management tool.
+- Developed with **Node.js**, **Express**, and **MongoDB**.
+- Features: authentication, expense tracking, and robust error handling.
 
+### 🌤️ [React Weather App](https://github.com/Satyendra-official/react-weather-app)
+- Real-time weather forecast app using React.
+- Integrated OpenWeatherMap API.
+- Utilized **React Hooks**, **Tailwind CSS**, and responsive design principles.
+  
 ### 🗃️ Backend API Development
 - Developed RESTful APIs using **Node.js** and **Express**.
 - Created Mongoose schemas and models to interact with **MongoDB**.
@@ -51,8 +57,8 @@ I'm a passionate **Full Stack Web Developer** who loves building responsive and 
 
 ## 🏆 Achievements
 
-- 🎓 Completed full-stack projects using MERN
-- 🌐 Built and deployed a personal portfolio using Vite + Tailwind
+- 🎓 Completed full-stack projects using **MERN stack**
+- 🌐 Built and deployed a personal portfolio using **Vite + Tailwind**
 - 🧠 Learned and implemented API integrations & state management
 - 📈 Continuously learning and contributing to open-source projects
 
