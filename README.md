@@ -1,4 +1,4 @@
-<img src="ChatGPT Image Apr 7, 2025, 01_30_50 AM.png" alt="Satyendra's GitHub Banner" style="width:100%; border-radius: 12px;" />
+<img src="assets/banner.png" alt="Satyendra's GitHub Banner" style="width:100%; border-radius:12px;" />
 
 <!-- # 👋 Hi, I'm Satyendra! -->
 
@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Web Developer** who loves building responsive and 
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 **Frontend:**
 - HTML, CSS, JavaScript
@@ -18,11 +18,11 @@ I'm a passionate **Full Stack Web Developer** who loves building responsive and 
 - MongoDB (Mongoose ODM, Schema Design, CRUD operations)
 
 **Programming Languages:**
-- C, C++, Python, Basic Java
+- C, C++, Python, Java
 
 ---
 
-## 🛠️ Projects
+## 📂 Projects
 
 ### 🌐 [LifeOps](https://github.com/Satyendra-official/LifeOps)
 - A productivity and lifestyle management app.
@@ -46,16 +46,16 @@ I'm a passionate **Full Stack Web Developer** who loves building responsive and 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Satyendra-official&show_icons=true&theme=github_dark" alt="Satyendra's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=github-dark&hide_border=false" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Satyendra-official&theme=github-dark&hide_border=false" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🥇 Achievements
 
 - 🎓 Completed full-stack projects using **MERN stack**
 - 🌐 Built and deployed a personal portfolio using **Vite + Tailwind**
@@ -64,7 +64,7 @@ I'm a passionate **Full Stack Web Developer** who loves building responsive and 
 
 ---
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
 - 📧 Email: [satyendray2306@gmail.com](mailto:satyendray2306@gmail.com)
 - 🐱 GitHub: [github.com/Satyendra-official](https://github.com/Satyendra-official)
