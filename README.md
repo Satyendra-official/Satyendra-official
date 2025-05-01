@@ -50,8 +50,9 @@ I'm a passionate **Full Stack Web Developer** who loves building responsive and 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Satyendra-official&show_icons=true&theme=github_dark" alt="Satyendra's GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Satyendra-official&theme=github-dark&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=github-dark&hide_border=false" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=Satyendra-official&theme=github-dark&hide_border=false" /> -->
+  <img src="https://streak-stats.demolab.com/?user=Satyendra-official&theme=github-dark&hide_border=false" alt="GitHub Streak" height="180" /> 
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=github-dark&hide_border=false" alt="GitHub Streak" height="180"/> -->
 
 </p>
 
