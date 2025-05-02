@@ -55,7 +55,7 @@ I'm a passionate **Full Stack Web Developer** who loves building responsive and 
       height="180"
     />
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=dark&hide_border=false&ring=03fc90&fire=03fc90&currStreakLabel=03fc90&background=002b19" 
+      src="https://streak-stats.demolab.com/?user=Satyendra-official&theme=dark&hide_border=false&ring=03fc90&fire=03fc90&currStreakLabel=03fc90&background=002b19" 
       alt="GitHub Streak" 
       height="180"
     />
