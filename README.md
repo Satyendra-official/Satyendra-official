@@ -8,10 +8,10 @@ I'm a **Front-end Developer** passionate about crafting seamless user experience
 - **Other**: REST APIs, GraphQL, Jest
 
 ## 🌟 Featured Projects
-- **[LifeOps](https://github.com/Satyendra-official/lifeops)**: A productivity app built with React.js to manage tasks, habits, and goals with a sleek, responsive UI. [Live Demo](#)
-- **[Finance Tracker Backend](https://github.com/Satyendra-official/finance-tracker-backend)**: A Node.js/Express backend for a finance tracking app, featuring REST APIs for budgeting and expense tracking. [Live Demo](#)
-- **[React Weather App](https://github.com/Satyendra-official/react-weather-app)**: A React.js app that fetches real-time weather data using the OpenWeatherMap API, with dynamic UI updates. [Live Demo](#)
-- **[Universal Translator](https://github.com/Satyendra-official/universal-translator)**: A React-based translation tool supporting multiple languages, powered by a translation API for seamless communication. [Live Demo](#)
+- **[LifeOps](https://github.com/Satyendra-official/lifeops)**: A productivity app built with React.js to manage tasks, habits, and goals with a sleek, responsive UI. 
+- **[Finance Tracker Backend](https://github.com/Satyendra-official/finance-tracker-backend)**: A Node.js/Express backend for a finance tracking app, featuring REST APIs for budgeting and expense tracking. 
+- **[React Weather App](https://github.com/Satyendra-official/react-weather-app)**: A React.js app that fetches real-time weather data using the OpenWeatherMap API, with dynamic UI updates. 
+- **[Universal Translator](https://github.com/Satyendra-official/universal-translator)**: A React-based translation tool supporting multiple languages, powered by a translation API for seamless communication. 
 
 ## 📈 GitHub Stats
 <div align="center">
