@@ -1,96 +1,38 @@
-<img src="assets/banner.png" alt="Satyendra's GitHub Banner" style="width:100%; border-radius:12px;" />
+# 👋 Hi, I'm Satyendra!
 
-<!-- # 👋 Hi, I'm Satyendra! -->
+I'm a **Front-end Developer** passionate about crafting seamless user experiences with **React.js**. I believe coding is fun and love turning designs into interactive web apps! 🚀
 
-I'm a passionate **Full Stack Web Developer** who loves building responsive and dynamic web applications. I enjoy solving real-world problems through code and continuously learning new technologies.
+## 🛠️ Skills
+- **Frontend**: React.js, JavaScript, TypeScript, HTML, CSS, Redux
+- **Tools**: Git, Webpack, Vite, Figma
+- **Other**: REST APIs, GraphQL, Jest
 
----
+## 🌟 Featured Projects
+- **[LifeOps](https://github.com/Satyendra-official/lifeops)**: A productivity app built with React.js to manage tasks, habits, and goals with a sleek, responsive UI. [Live Demo](#)
+- **[Finance Tracker Backend](https://github.com/Satyendra-official/finance-tracker-backend)**: A Node.js/Express backend for a finance tracking app, featuring REST APIs for budgeting and expense tracking. [Live Demo](#)
+- **[React Weather App](https://github.com/Satyendra-official/react-weather-app)**: A React.js app that fetches real-time weather data using the OpenWeatherMap API, with dynamic UI updates. [Live Demo](#)
+- **[Universal Translator](https://github.com/Satyendra-official/universal-translator)**: A React-based translation tool supporting multiple languages, powered by a translation API for seamless communication. [Live Demo](#)
 
-## 💻 Tech Stack
-
-**Frontend:**
-- HTML, CSS, JavaScript
-- Tailwind CSS
-- React.js (Hooks, State Management)
-
-**Backend:**
-- Node.js, Express.js
-- MongoDB (Mongoose ODM, Schema Design, CRUD operations)
-
-**Programming Languages:**
-- C, C++, Python, Java
-
----
-
-## 📂 Projects
-
-### 🌐 [LifeOps](https://github.com/Satyendra-official/LifeOps)
-- A productivity and lifestyle management app.
-- Focused on task tracking, notes, and reminders.
-- Built with **MERN stack**, emphasizing clean UI and modular code.
-
-### 💸 [Finance Tracker Backend](https://github.com/Satyendra-official/finance-tracker-backend)
-- RESTful API for a personal finance management tool.
-- Developed with **Node.js**, **Express**, and **MongoDB**.
-- Features: authentication, expense tracking, and robust error handling.
-
-### 🌤️ [React Weather App](https://github.com/Satyendra-official/react-weather-app)
-- Real-time weather forecast app using React.
-- Integrated OpenWeatherMap API.
-- Utilized **React Hooks**, **Tailwind CSS**, and responsive design principles.
-  
-### 🗃️ Backend API Development
-- Developed RESTful APIs using **Node.js** and **Express**.
-- Created Mongoose schemas and models to interact with **MongoDB**.
-- Focused on efficient data storage, retrieval, and validation.
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Satyendra-official&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19" 
-      alt="Satyendra's GitHub Stats" 
-      height="180"
-    />
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=dark&hide_border=false&ring=03fc90&fire=03fc90&currStreakLabel=03fc90&background=002b19" 
-      alt="GitHub Streak" 
-      height="180"
-    />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyendra-official&show_icons=true&theme=radical&hide_border=true" alt="Satyendra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyendra-official&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
+## 🔥 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
+## 🌱 Currently Learning
+- Next.js for server-side rendering
+- TypeScript for type-safe React apps
 
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Satyendra-official&show_icons=true&theme=github_dark" alt="Satyendra's GitHub Stats" height="180" /> -->
-  <!-- <img src="https://streak-stats.demolab.com/?user=Satyendra-official&theme=github-dark&hide_border=false" /> -->
-  <!-- <img src="https://streak-stats.demolab.com/?user=Satyendra-official&theme=github-dark&hide_border=false" alt="GitHub Streak" height="180" /> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=github-dark&hide_border=false" alt="GitHub Streak" height="180"/> -->
+## 📫 Connect with Me
+- [Twitter](https://x.com/Satya82642)
+- [Email](mailto:satyendray2306@gmail.com)
+- [Portfolio](https://satyendra-official.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/satyendra-kr-yadav/)
 
-<!-- </p> -->
+💬 Ask me about React, UI design, or anime! 😄
 
----
-
-## 🥇 Achievements
-
-- 🎓 Completed full-stack projects using **MERN stack**
-- 🌐 Built and deployed a personal portfolio using **Vite + Tailwind**
-- 🧠 Learned and implemented API integrations & state management
-- 📈 Continuously learning and contributing to open-source projects
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: [satyendray2306@gmail.com](mailto:satyendray2306@gmail.com)
-- 🐱 GitHub: [github.com/Satyendra-official](https://github.com/Satyendra-official)
-- 💼 LinkedIn: [linkedin.com/in/satyendra-kr-yadav](https://www.linkedin.com/in/satyendra-kr-yadav/)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for stopping by! ⭐ Feel free to check out my repositories and leave a star if you like my work!
