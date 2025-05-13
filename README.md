@@ -1,38 +1,43 @@
-# 👋 Hi, I'm Satyendra!
+👋 Hi, I'm Satyendra!
+I'm a Full Stack Web Developer with a passion for building dynamic, scalable, and user-centric web applications from concept to deployment. I thrive on transforming innovative ideas into reality by blending React.js for stunning frontends with robust backend solutions using Node.js and Express. Coding is my craft, and I love creating seamless digital experiences that delight users and drive impact! 🚀
+🛠️ Skills
 
-I'm a **Front-end Developer** passionate about crafting seamless user experiences with **React.js**. I believe coding is fun and love turning designs into interactive web apps! 🚀
+Frontend: React.js, JavaScript, TypeScript, HTML, CSS, Redux, Tailwind CSS
+Backend: Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, GraphQL
+Tools: Git, Webpack, Vite, Docker, Figma, Postman
+Testing: Jest, Cypress, Mocha
+DevOps: AWS (EC2, S3), CI/CD pipelines, Heroku
+Other: Prisma, JWT, WebSocket
 
-## 🛠️ Skills
-- **Frontend**: React.js, JavaScript, TypeScript, HTML, CSS, Redux
-- **Tools**: Git, Webpack, Vite, Figma
-- **Other**: REST APIs, GraphQL, Jest
+🌟 Featured Projects
 
-## 🌟 Featured Projects
-- **[LifeOps](https://github.com/Satyendra-official/lifeops)**: A productivity app built with React.js to manage tasks, habits, and goals with a sleek, responsive UI. 
-- **[Finance Tracker Backend](https://github.com/Satyendra-official/finance-tracker-backend)**: A Node.js/Express backend for a finance tracking app, featuring REST APIs for budgeting and expense tracking. 
-- **[React Weather App](https://github.com/Satyendra-official/react-weather-app)**: A React.js app that fetches real-time weather data using the OpenWeatherMap API, with dynamic UI updates. 
-- **[Universal Translator](https://github.com/Satyendra-official/universal_translator)**: A React-based translation tool supporting multiple languages, powered by a translation API for seamless communication. 
+LifeOps: A productivity powerhouse built with React.js, featuring a sleek, responsive UI to manage tasks, habits, and goals, integrated with a Node.js backend for real-time data syncing. 
+Finance Tracker Backend: A robust Node.js/Express backend powering a finance tracking app, with secure REST APIs for budgeting, expense tracking, and user authentication. 
+React Weather App: A dynamic React.js app leveraging the OpenWeatherMap API to deliver real-time weather updates, with a polished UI and seamless state management. 
+Universal Translator: A React-based translation tool supporting multiple languages, powered by a translation API and a lightweight Express server for efficient API handling.
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyendra-official&show_icons=true&theme=radical&hide_border=true" alt="Satyendra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyendra-official&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+📈 GitHub Stats
 
-## 🔥 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+  
+  
 
-## 🌱 Currently Learning
-- Next.js for server-side rendering
-- TypeScript for type-safe React apps
 
-## 📫 Connect with Me
-- [Twitter](https://x.com/Satya82642)
-- [Email](mailto:satyendray2306@gmail.com)
-- [Portfolio](https://satyendra-official.github.io/portfolio/)
-- [LinkedIn](https://www.linkedin.com/in/satyendra-kr-yadav/)
+🔥 GitHub Streak
 
-💬 Ask me about React, UI design, or anime! 😄
+  
 
+
+🌱 Currently Learning
+
+Next.js for full stack applications with server-side rendering
+TypeScript for scalable, type-safe full stack development
+Kubernetes for container orchestration
+
+📫 Connect with Me
+
+Twitter
+Email
+Portfolio
+LinkedIn
+
+💬 Ask me about full stack development, system design, or anime! 😄
