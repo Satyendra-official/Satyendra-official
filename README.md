@@ -17,16 +17,11 @@ React Weather App: A dynamic React.js app leveraging the OpenWeatherMap API to d
 Universal Translator: A React-based translation tool supporting multiple languages, powered by a translation API and a lightweight Express server for efficient API handling.
 
 📈 GitHub Stats
-
+[View My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyendra-official&show_icons=true&theme=radical&hide_border=true)
   
-  
-
-
 🔥 GitHub Streak
-
+[View My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satyendra-official&theme=radical&hide_border=true)
   
-
-
 🌱 Currently Learning
 
 Next.js for full stack applications with server-side rendering
